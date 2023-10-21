@@ -1,0 +1,5 @@
+email1@gmail.com
+email2@yahoo.com
+email3@protonmail.com
+email4@somecompany.com
+email5@gmail.com
