@@ -1,0 +1,7 @@
+json
+requests
+logging
+openai
+smtplib
+email
+datetime
