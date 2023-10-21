@@ -25,9 +25,9 @@ openai
 ```
 
 Using the command below:
-```
-pip install requirements.txt
-```
+
+`pip install requirements.txt`
+
 
 
 ### Setup
